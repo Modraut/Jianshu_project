@@ -1,0 +1,57 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [
+      {
+        "id": 1,
+        "title": "History",
+        "imgURL": "//upload-images.jianshu.io/upload_images/5303650-16bd31b30bff0a71.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id": 2,
+        "title": "Novel",
+        "imgURL": "//upload-images.jianshu.io/upload_images/5303650-16bd31b30bff0a71.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      }
+    ],
+    "articleList": [
+      {
+        "id": 1,
+        "title": "How to use Redux",
+        "content": "djfbasnfg;iwneglbne;vqiwuehgr;  2wnegkn3w;igh3ifgo;qwnvk.w kw;iuef;w",
+        "imgURL": "https://upload-images.jianshu.io/upload_images/21181964-f143c4eb508bebd1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id": 2,
+        "title": "How to use styled-component",
+        "content": "djfbasnfg;iwneglbne;vqiwuehgr;  2wnegkn3w;igh3ifgo;qwnvk.w kw;iuef;w",
+        "imgURL": "//upload-images.jianshu.io/upload_images/3459828-fdf30bf7e301a6e9.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": 1,
+        "title": "Jianshu Membership",
+        "imgURL": "#fab84f",
+        "font": "white"
+      },
+      {
+        "id": 2,
+        "title": "Jianshu Serials",
+        "imgURL": "#f4e0bd",
+        "font": "#deb468"
+      },
+      {
+        "id": 3,
+        "title": "Jianshu Copyright",
+        "imgURL": "#c1e4de",
+        "font": "#518d85"
+      },
+      {
+        "id": 4,
+        "title": "Jianshu College",
+        "imgURL": "#b7d6ec",
+        "font": "#4986a8"
+      }
+    ]
+  }
+}
